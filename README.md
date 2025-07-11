@@ -3,7 +3,7 @@
 
 # Retrieval-Augmented Generation (RAG) System with Mistral & ChromaDB
 
-This project implements a lightweight Retrieval-Augmented Generation (RAG) pipeline using a local LLM (Mistral 7B) and ChromaDB as the vector store. The system is designed to run seamlessly in Kaggle environments and supports PDF, image, DOCX, and text files.
+This project implements a lightweight multi modal Retrieval-Augmented Generation (RAG) pipeline using a local LLM (Mistral 7B) and ChromaDB as the vector store. The system is designed to run seamlessly in Kaggle environments and supports PDF, image, DOCX, and text files.
 
 ##  Project Structure
 
