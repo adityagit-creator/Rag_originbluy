@@ -52,7 +52,7 @@ Make sure your local model is available under:
    Chunks are stored in ChromaDB with corresponding metadata.
 
 5. **Querying**  
-   On user query, relevant chunks are retrieved and passed to Mistral 7B using LangChain’s RAG chain.
+   On user query, top 3 srelevant chunks are retrieved and passed to Mistral 7B using LangChain’s RAG chain.
 
 ## 🧪 Example Query and  Demo Video
 
