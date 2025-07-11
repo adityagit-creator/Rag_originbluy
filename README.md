@@ -54,10 +54,11 @@ Make sure your local model is available under:
 5. **Querying**  
    On user query, relevant chunks are retrieved and passed to Mistral 7B using LangChain’s RAG chain.
 
-## 🧪 Example Query
+## 🧪 Example Query and  Demo Video
 
+Watch the full demo of the RAG pipeline in action here:
 
-
+🔗 [RAG System Demo – Google Drive](https://drive.google.com/file/d/1gf1Y0_CAo2j5m5X9CXcZ-Gsv4JLl7UQ7/view?usp=drive_link)
 
 ## 🧠 Model Details
 
