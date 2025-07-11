@@ -24,7 +24,7 @@ This project implements a lightweight multi modal Retrieval-Augmented Generation
 
 ##  Dependencies
 
-Install the required libraries in Kaggle or locally:
+Install the required libraries in Kaggle :
 
 ```bash
 pip install -q langchain chromadb huggingface_hub pdf2image pymupdf easyocr python-docx opencv-python
