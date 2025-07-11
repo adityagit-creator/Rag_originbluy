@@ -40,10 +40,10 @@ Make sure your local model is available under:
 ## 📚 How It Works
 
 1. **Load Documents**  
-   Supported formats include `.pdf`, `.docx`, `.txt` files.
+   Supported formats include `.pdf`, `.docx`, `.txt` files.Provide path to your documents in main() to documents_paths[].
 
 2. **Extract Text**  
-   OCR is used for scanned PDFs and images via `EasyOCR`. Text-based PDFs are parsed using `PyMuPDF`.
+   OCR is used for scanned PDFs and images via `EasyOCR`. Text-based PDFs are parsed using `PyMuPDF`.Docx and TXTs are also processed.
 
 3. **Split and Embed**  
    Documents are split , and vector embeddings are created via HuggingFace models.
