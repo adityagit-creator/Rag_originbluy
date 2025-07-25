@@ -1,4 +1,4 @@
-# Rag_originbluy
+# Rag_multimodal
 
 
 # Retrieval-Augmented Generation (RAG) System with Mistral & ChromaDB
